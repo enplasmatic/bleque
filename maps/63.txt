@@ -1,0 +1,12 @@
+?A     A     A                
+?A  E  A     A      
+?A5    A     A        
+?A5    A     A        
+?A 5   A  5  A       
+?A 5   A   5 A    
+?A  5  A    5A       
+?A  5  A  E  A              
+?A!!!!!A     A
+?A!!!!!A     A
+?A!!!!!A     A        
+?A!!P!!A     A

@@ -1,0 +1,13 @@
+? A     A  3  A                  
+? A     AAA AAA        
+? AA E AA     A          
+? A     A 4U4 A          
+? AA Y AA  4  A         
+? A     A4   4A      
+? A1   1AA   AA         
+? A!!!!!A     A                
+? A!!!!!A     A      
+? A!!P!!A     A     
+? AAAAAAA  E  A      
+? AAAAAAA     A    
+? AAAAAAA     A    

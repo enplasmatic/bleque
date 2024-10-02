@@ -1,0 +1,12 @@
+!!!! A 
+!!!!B B B B B B                                           
+P!!!     A                     
+!!!!B B B B B B                        
+!!!! 1 A                          
+!!!!B B B B B B                       
+!!!! 1 1 1   A                         
+B B B B B B B B    
+?A   1 1 1 1 1
+B B B B B B B B 
+?    A   1 1 1    
+B B B B B B B B   
